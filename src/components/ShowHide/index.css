@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.container {
+  background-color: #dd1264;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-weight: bold;
+}
+.new-container {
+  display: flex;
+  flex-direction: row;
+}
+.button {
+  color: #fc63a7;
+  background-color: #ffffff;
+  font-size:20px;
+  border-radius: 5px;
+  margin-left:6px;
+}
